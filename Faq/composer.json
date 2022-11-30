@@ -6,11 +6,13 @@
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Bluethink",
+            "email": "abhijeetkumar.bluethink@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+    	"php": ">=5.4.0"
+    },
     "autoload": {
         "files": [
             "registration.php"

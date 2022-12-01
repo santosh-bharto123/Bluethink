@@ -10,6 +10,12 @@
             "email": "abhijeetkumar.bluethink@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/santosh-bharto123/Bluethink.git"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
     	"php": ">=7.2.0"

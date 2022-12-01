@@ -1,24 +1,11 @@
 {
     "name": "bluethink/module-faq",
-    "description": "Faq",
     "type": "magento2-module",
-    "version": "1.0.0",
-    "license": "GPL-3.0",
-    "authors": [
-        {
-            "name": "Bluethink",
-            "email": "abhijeetkumar.bluethink@gmail.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/santosh-bharto123/Bluethink.git"
-        }
-    ],
-    "minimum-stability": "dev",
+    "version": "1.3.0",
+    "license": "OSL-3.0",
+    "description": "Faq Module.",
     "require": {
-    	"php": ">=7.2.0"
+        "php": ">=7.2.0"
     },
     "autoload": {
         "files": [

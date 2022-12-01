@@ -12,7 +12,7 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "composer",
             "url": "https://github.com/santosh-bharto123/Bluethink.git"
         }
     ],

@@ -60,9 +60,3 @@ Faq detail page
 
 <img src="https://github.com/santosh-bharto123/Bluethink/blob/main/faq.png" alt="Magento FAQ Extension">
 
-## Attributes
-
-
-
-
-

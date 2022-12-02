@@ -40,7 +40,7 @@ There is also option to use seo friendly url for faq module
 
 ## Specifications
 In Admin Panel admin user can add/edit/delete/enable/disable new faq category
-<img src="faq-readme/admin-category.png" alt="Magento FAQ Extension">
+<img src="../faq-readme/admin-category.png" alt="Magento FAQ Extension">
 
 Admin user can create new faq/edit/delete/enable/disable under selected category
 <img src="faq-readme/admin-faq.png" alt="Magento FAQ Extension">

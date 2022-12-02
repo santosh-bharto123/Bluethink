@@ -40,19 +40,19 @@ There is also option to use seo friendly url for faq module
 
 ## Specifications
 In Admin Panel admin user can add/edit/delete/enable/disable new faq category
-<img src="../faq-readme/admin-category.png" alt="Magento FAQ Extension">
+<img src="https://github.com/santosh-bharto123/Bluethink/blob/main/admin-category.png" alt="Magento FAQ Extension">
 
 Admin user can create new faq/edit/delete/enable/disable under selected category
-<img src="faq-readme/admin-faq.png" alt="Magento FAQ Extension">
+<img src="https://github.com/santosh-bharto123/Bluethink/blob/main/admin-faq.png" alt="Magento FAQ Extension">
 
 On frontend you are able to see faq page on {{baseUrl}}/faq and enabled link
-<img src="faq-readme/faq-main.png" alt="Magento FAQ Extension">
+<img src="https://github.com/santosh-bharto123/Bluethink/blob/main/faq-main.png" alt="Magento FAQ Extension">
 
 Faq Category page
-<img src="faq-readme/faq-category.png" alt="Magento FAQ Extension">
+<img src="https://github.com/santosh-bharto123/Bluethink/blob/main/faq-category.png" alt="Magento FAQ Extension">
 
 Faq single page
-<img src="faq-readme/faq.png" alt="Magento FAQ Extension">
+<img src="https://github.com/santosh-bharto123/Bluethink/blob/main/faq.png" alt="Magento FAQ Extension">
 
 ## Attributes
 

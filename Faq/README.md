@@ -2,15 +2,10 @@
 
     ``bluethink/module-faq``
 
- - [Main Functionalities](#markdown-header-main-functionalities)
- - [Installation](#markdown-header-installation)
- - [Configuration](#markdown-header-configuration)
- - [Specifications](#markdown-header-specifications)
- - [Attributes](#markdown-header-attributes)
-
 
 ## Main Functionalities
-Faq
+Faq module provide features to create category and faqs under selected categories in admin panel, 
+it will show on frontend under {{baseUrl}}/faq
 
 ## Installation
 \* = in production please use the `--keep-generated` option
@@ -36,17 +31,32 @@ Faq
 
 
 ## Configuration
-
+In Admin panel you need to enable this module under store > configuration > Bluethink > Faq
+There are few options to enable/disable link on top navigation, menu bar and footer link
+There is also option to use seo friendly url for faq module
+<img src="faq-readme/configuration.png" alt="Magento FAQ Extension">
 
 
 
 ## Specifications
+In Admin Panel admin user can add/edit/delete/enable/disable new faq category
+<img src="faq-readme/admin-category.png" alt="Magento FAQ Extension">
 
- - Model
-	- Faq
+Admin user can create new faq/edit/delete/enable/disable under selected category
+<img src="faq-readme/admin-faq.png" alt="Magento FAQ Extension">
 
+On frontend you are able to see faq page on {{baseUrl}}/faq and enabled link
+<img src="faq-readme/faq-main.png" alt="Magento FAQ Extension">
+
+Faq Category page
+<img src="faq-readme/faq-category.png" alt="Magento FAQ Extension">
+
+Faq single page
+<img src="faq-readme/faq.png" alt="Magento FAQ Extension">
 
 ## Attributes
+
+
 
 
 
